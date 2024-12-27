@@ -1,31 +1,31 @@
-# María José Domenech
+### Hi there! I’m María José
+A Physics graduate from 📍 Córdoba, Argentina.
 
-Hi there! I’m María José, a Physics graduate from Córdoba, Argentina. 
-I always had a passion and interest for science that made me learn and explore different fields of knowledge.
-
-My background combines strong physics fundamentals, experience in numerical simulations and programming. 
-I am currently working in my profile for nanostructured materials science and in Nuclear Magnetic Resonance (NMR) techniques.
-
-## 🌟 About Me
-- **📍 Location:** Argentina  
-- **🎓 Education:** Bachelor's degree in Physics (UNC, FAMAF)  
-- **🎯 Interests:** Renewable energies, advanced materials, nuclear magnetic resonance, nuclear and atomic physics.
-- **💬 Hobbies:** I like to play football and play videogames! I am also always reading a book.
+- 🎓 Degree equivalent to a Master in Physics (UNC, FAMAF)  
+- 🌱 Passion for science that made me learn from Physics to Chemistry and Computer Science.
+- 💻 Enthusiast of free and open-source software.
+- 🌟 Currently shaping my profile in Nanostructured Materials Science and Nuclear Magnetic Resonance (NMR) techniques.
+- 💬 I like to play football and play videogames! I am also always reading a book.
   
-## 💻 Technical Skills
-- **Programming Languages:** Python, Julia, Fortran  
+### Technical Skills
+
 - **Data Analysis:** Numpy, Pandas, Matplotlib, SciPy, Seaborn  
 - **Machine Learning:** Scikit-Learn, PyTorch  
-- **Others:** LaTeX, Linux, HPC Clusters, OriginLab  
+- **Others:** LaTeX, Linux, HPC Clusters, OriginLab
+  <p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=python,julia,fortran,linux,git,bash" />
+  </a>
+</p>
 
-## 🌍 Languages
+### 🌍 Languages
 - **Spanish:** Native  
 - **English:** Professional proficiency (B1/C1)
 
 ---
 
 Feel free to explore my projects and reach out for collaborations!  
-📫 **Email:** [m.jose.domenech@mi.unc.edu.ar](mailto:m.jose.domenech@mi.unc.edu.ar)  
-🔗 **LinkedIn:** [María José Domenech](https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-domenech-34bb16239/)  
-🔗 **GitHub:** [majodomenech](https://github.com/majodomenech)
-
+<div align="center">
+<a target="_blank" href="https://www.linkedin.com/in/jjosedomenech/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+<a target="_blank" href="mailto:m.jose.domenech@mi.unc.edu.ar"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+</div>
