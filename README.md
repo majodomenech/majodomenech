@@ -18,19 +18,9 @@ I am currently working in my profile for nanostructured materials science and in
 - **Machine Learning:** Scikit-Learn, PyTorch  
 - **Others:** LaTeX, Linux, HPC Clusters, OriginLab  
 
-## 👩‍🏫 Experience
-- **Teaching Assistant:** Courses in general and experimental physics.  
-- **Research:** Modeling complex systems and statistical data analysis using Python.  
-- **Software Development:** Automation and visualization with BPM, PostgreSQL, HTML/CSS, JavaScript, and VTL.  
-
-## 🎖 Achievements
-- CONICET Doctoral Fellowship 2023.  
-- Student representative on the FAMAF Governing Council.  
-- Academic excellence award in high school.  
-
 ## 🌍 Languages
 - **Spanish:** Native  
-- **English:** Professional proficiency (B1, UNC)
+- **English:** Professional proficiency (B1/C1)
 
 ---
 
