@@ -4,7 +4,7 @@ A Physics graduate from 📍 Córdoba, Argentina.
 - 🎓 Degree equivalent to a Master in Physics (UNC, FAMAF)  
 - 🌱 Passion for science that made me learn from Physics to Chemistry and Computer Science.
 - 💻 Enthusiast of free and open-source software.
-- 🌟 Currently shaping my profile in Nanostructured Materials Science and Nuclear Magnetic Resonance (NMR) techniques.
+- 🌟 Currently working on Nanostructured Materials Science and Nuclear Magnetic Resonance (NMR) techniques.
 - 💬 I like to play football and play videogames! I am also always reading a book.
 
   
