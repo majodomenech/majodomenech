@@ -15,7 +15,7 @@ Feel free to explore my projects and reach out for collaborations!
 
 ### 🌍 Languages
 - **Spanish:** Native  
-- **English:** Professional proficiency (B1/C1)
+- **English:** Professional proficiency (B2/C1)
 
 ---
 
