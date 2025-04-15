@@ -1,13 +1,5 @@
 ### Hi there! I’m María José
 A Physics graduate from 📍 Córdoba, Argentina.
-
-- 🎓 Degree equivalent to a Master in Physics (UNC, FAMAF)  
-- 🌱 Passion for science that made me learn from Physics to Chemistry and Computer Science.
-- 💻 Enthusiast of free and open-source software.
-- 🌟 Currently working on Nanostructured Materials Science and Nuclear Magnetic Resonance (NMR) techniques.
-- 💬 I like to play football and play videogames! I am also always reading a book.
-
-  
 Feel free to explore my projects and reach out for collaborations!  
   
 ### Technical Skills <p align="center">
